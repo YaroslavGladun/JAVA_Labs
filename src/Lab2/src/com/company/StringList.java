@@ -1,5 +1,6 @@
 package com.company;
 
+import java.io.Serializable;
 import java.util.Arrays;
 import java.util.Iterator;
 
@@ -18,9 +19,13 @@ interface IStringList {
     boolean contains(String string);
 
     boolean containsAll(IStringList stringList);
+
+    void sort();
 }
 
-public class StringList implements IStringList, Iterator<String>, Iterable<String> {
+public class StringList implements IStringList, Iterator<String>, Iterable<String>, Serializable {
+
+    private static final long serialVersionUID = 1L;
 
     private String array[];
     private int counter;
@@ -84,6 +89,27 @@ public class StringList implements IStringList, Iterator<String>, Iterable<Strin
     @Override
     public boolean containsAll(IStringList stringList) { //----------------------------------------
         return false;
+    }
+
+    @Override
+    public void sort() {
+
+        boolean swapped;
+
+        do {
+            swapped = false;
+            for (int i = 1; i < this.array.length; i++) {
+                if (this.array[i - 1].compareTo(this.array[i]) > 0) {
+
+                    if (!this.array[i - 1].equals(this.array[i])) {
+                        String temp = array[i - 1];
+                        array[i - 1] = array[i];
+                        array[i] = temp;
+                    }
+                    swapped = true;
+                }
+            }
+        } while (swapped != false);
     }
 
     @Override

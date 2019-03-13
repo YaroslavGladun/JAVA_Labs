@@ -4,6 +4,13 @@ import java.util.Scanner;
 
 public class Main {
 
+    public static void printStrBuffer(StringBuffer stringBuffer)
+    {
+        System.out.println("______________");
+        System.out.println(stringBuffer);
+        System.out.println("______________");
+    }
+
     public static int getLetterNumber(char letter) {
         if (letter <= 'z' && letter >= 'a') {
             return letter - 'a' + 1;

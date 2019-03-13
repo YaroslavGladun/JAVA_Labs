@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26d0b181-33c6-444d-9369-dec72254eac2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src.iml" afterDir="false" />
+    <list default="true" id="a5316e48-0cf1-4e52-b7b2-38333f00a4ff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../src/src.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../doc/ReportLab1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../doc/ReportLab1.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/out/production/Lab1/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/out/production/Lab1/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/out/production/Lab2/com/company/IStringList.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/out/production/Lab2/com/company/IStringList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/out/production/Lab2/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/out/production/Lab2/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/out/production/Lab2/com/company/StringList.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/out/production/Lab2/com/company/StringList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/src/com/company/StringList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/src/com/company/StringList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../src/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../src/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../src/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../src/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Lab1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Lab1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Lab1/out/production/Lab1/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Lab1/out/production/Lab1/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Lab1/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Lab1/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Lab2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Lab2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Lab2/out/production/Lab2/com/company/IStringList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Lab2/out/production/Lab2/com/company/IStringList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Lab2/out/production/Lab2/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Lab2/out/production/Lab2/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Lab2/out/production/Lab2/com/company/StringList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Lab2/out/production/Lab2/com/company/StringList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Lab2/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Lab2/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Lab2/src/com/company/StringList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Lab2/src/com/company/StringList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +26,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -36,22 +47,13 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="src" type="b2602c69:ProjectViewProjectNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
@@ -75,7 +77,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="src" />
+      <module name="Lab4" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -89,20 +91,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="26d0b181-33c6-444d-9369-dec72254eac2" name="Default Changelist" comment="" />
-      <created>1552505512658</created>
+      <changelist id="a5316e48-0cf1-4e52-b7b2-38333f00a4ff" name="Default Changelist" comment="" />
+      <created>1552505607332</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1552505512658</updated>
-      <workItem from="1552505515179" duration="86000" />
+      <updated>1552505607332</updated>
+      <workItem from="1552505609808" duration="10000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86000" />
+    <option name="totallyTimeSpent" value="10000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
